@@ -37,9 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1"/>
-</div>
 
 ---
 

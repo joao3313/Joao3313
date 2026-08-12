@@ -34,9 +34,14 @@
 
   <br /><br />
 
+  <div align="center">
+
   <!-- Linha 2: Streak Stats -->
   <a href="https://github.com/joao3313">
     <img height="180" src="https://streak-stats.demolab.com?user=joao3313&theme=dracula" />
+
+ </div>   
+ 
   </a>
 
   <br /><br />

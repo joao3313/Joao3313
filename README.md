@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-
-  ![Troféus](https://github-profile-trophy-three.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1.1)
+  <!-- GitHub Profile Trophy (Usando domínio alternativo) -->
+  <img src="https://github-profile-trophy-three.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1.2" alt="Trophies" />
 </div>
 
 ---

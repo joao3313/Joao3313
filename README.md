@@ -22,10 +22,9 @@
 ## 🚀 Estatísticas
 
 <div align="center">
-  <!-- Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula" />
+
+![Estatísticas do GitHub](https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1.0)
+![Linguagens mais usadas](https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1.0)
 </div>
 
 <div align="center">

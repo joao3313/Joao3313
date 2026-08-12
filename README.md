@@ -23,18 +23,28 @@
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1.0)
-![Linguagens mais usadas](https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1.0)
-</div>
+  <!-- Linha 1: Stats e Top Languages ajustados em altura -->
+  <a href="https://github.com/joao3313">
+    <img height="180" src="https://github-stats-joao.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/joao3313">
+    <img height="180" src="https://github-stats-joao.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula" />
+  </a>
 
-<div align="center">
-  <!-- Streak (Sequência) - Fundo Escuro -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=joao3313&theme=dracula" />
-</div>
+  <br /><br />
 
-<div align="center">
-  <!-- Gráfico de Atividade e Produtividade -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao3313&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" />
+  <!-- Linha 2: Streak Stats -->
+  <a href="https://github.com/joao3313">
+    <img height="180" src="https://streak-stats.demolab.com?user=joao3313&theme=dracula" />
+  </a>
+
+  <br /><br />
+
+  <!-- Linha 3: Contribution Graph em destaque -->
+  <a href="https://github.com/joao3313">
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joao3313&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" />
+  </a>
+
 </div>
 
 ---

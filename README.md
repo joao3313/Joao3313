@@ -25,6 +25,9 @@
 
   <!-- Linha 1: Stats e Top Languages ajustados em altura -->
 ![Estatísticas do GitHub](https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1.0)
+</div>
+
+<div align="center">
 ![Linguagens mais usadas](https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1.0)
 </div>
 

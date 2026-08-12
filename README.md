@@ -22,8 +22,8 @@
 ## 🚀 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1" />
+  <img height="180em" src="https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1" />
 </div>
 
 <div align="center">

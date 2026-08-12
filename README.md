@@ -33,8 +33,8 @@
 </div>
 
 <div align="center">
-  <!-- GitHub Profile Trophy (Usando domínio alternativo) -->
-  <img src="https://github-profile-trophy-three.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1.2" alt="Trophies" />
+  <!-- Gráfico de Atividade e Produtividade -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao3313&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" />
 </div>
 
 ---

@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <!-- Troféus - Fundo Escuro (Usando domínio alternativo para quebrar cache) -->
+
   ![Troféus](https://github-profile-trophy-three.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1.1)
 </div>
 

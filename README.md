@@ -34,7 +34,7 @@
 
 <div align="center">
   <!-- Troféus - Fundo Escuro -->
-  <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1" />
 </div>
 
 ---

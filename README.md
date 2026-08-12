@@ -47,6 +47,9 @@
   <br /><br />
 
   <!-- Linha 3: Contribution Graph em destaque -->
+
+  <div align="center">
+    
   <a href="https://github.com/joao3313">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=joao3313&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" />
   </a>

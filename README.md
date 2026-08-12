@@ -22,21 +22,16 @@
 ## 🚀 Estatísticas
 
 <div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats-jotta1.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1.0)
-![Linguagens mais usadas](https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1.0)
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <!-- Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula" />
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=joao3313&theme=dracula)
-
+  <!-- Streak (Sequência) - Fundo Escuro -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=joao3313&theme=dracula" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1" />
-</div>
-
 
 <div align="center">
   <!-- Troféus - Fundo Escuro -->

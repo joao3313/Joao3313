@@ -28,6 +28,7 @@
 </div>
 
 <div align="center">
+  
 ![Linguagens mais usadas](https://github-readme-stats-jotta1.vercel.app/api/top-langs/?username=joao3313&layout=compact&theme=dracula&v=1.0)
 </div>
 

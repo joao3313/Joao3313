@@ -28,7 +28,7 @@
 
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joao3313&theme=dracula"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=joao3313&theme=dracula&no-frame=true&row=1&v=1.0" />
 </div>
 
 <div align="center">

@@ -62,6 +62,7 @@
 
 <div style="display: inline_block"><br>
 
+<div align="center">
  <a href="https://github.com/joao3313" target="_blank">
     <img align="center" alt="MySQL" height="30" width="40" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -87,7 +88,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   </a>
 
- 
+ </div>
 
 </div>
 

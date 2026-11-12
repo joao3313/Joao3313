@@ -48,11 +48,7 @@
 
   <!-- Linha 3: Contribution Graph em destaque -->
 
-<div align="center">
-  <a href="https://github.com/joao3313">
-    <img width="90%" src="https://ghchart.rshah.org/bd93f9/joao3313" alt="Gráfico de Contribuições de joao3313" />
-  </a>
-</div>
+
  
 
 ---

@@ -13,24 +13,23 @@
 
 
 
-# Olá, Eu sou João Paulo Silva
+# 👋 Olá, eu sou João Paulo
 
 
 
 🧑‍💻 Profissional em transição de carreira para a área de Desenvolvimento de Software, com formação acadêmica e experiência prática em ambiente de estudos. Possui conhecimentos em Node.js, HTML e CSS, além de integração com bancos de dados MySQL e SQL Server. Busca oportunidade para aplicar e desenvolver habilidades técnicas em projetos reais.
 
-💻 Suporte, Assistente de Infraestrutura em transição para FullStack  
+💻 Buscando : Estagio em Desenvolvimento | Back End eFront End | Python | JavaScript. Suporte Técnico (N1/N2/N3) e Assistente. Foco em Transição / Foco Aberto / Híbrido 
 📚 Node.js | HTML | CSS | MySQL  
-🎯 Buscando primeira oportunidade na área
+🎯 Buscando oportunidade na área de Desenvolvimento/Programação 
 
 
-✅ Estudando e aprimorando ! Estou no programa ( Desarolla+ ), do MercadoLivre para pessoas Pcd.
+✅ Estudando e aprimorando !
 
-# 👋 Olá, eu sou João Paulo
 
 💻 Em transição de carreira para **Desenvolvimento FullStack**
 📚 Estudando: **Node.js | HTML | CSS | Banco de Dados (MySQL / SQL Server)**
-🎯 Focado em evoluir e conquistar minha primeira oportunidade na área
+🎯 Focado em evoluir e conquistar minha primeira oportunidade na área de Desenvolvimento/Programação.
 
 ---
 

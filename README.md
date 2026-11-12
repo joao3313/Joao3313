@@ -26,6 +26,9 @@
 
 -----------
 
+<br><br>
+
+
   <!-- Linha 1: Stats e Top Languages ajustados em altura -->
 ![Estatísticas do GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=joao3313&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1.0)
 </div>

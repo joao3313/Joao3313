@@ -1,3 +1,18 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0077b5&height=200&section=header&text=Jo%C3%A3o%20Paulo%20da%20Silva&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Analista%20de%20Dados%20%7C%20Suporte%20T%C3%A9cnico%20%7C%20Python%20%7C%20SQL%20Server%20%7C%20Power%20BI&descSize=16&descAlignY=63&descColor=ffffff" alt="Banner de João Paulo da Silva" />
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/jpsilvaoficial/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ikkijp2008@hotmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+
+
 # Olá, Eu sou João Paulo Silva
 
 

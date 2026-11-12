@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://github.com/joao3313">
-    <img width="90%" src="https://github-readme-activity-graph.up.railway.app/graph?username=joao3313&theme=dracula&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area=true&hide_border=false" />
+    <img width="90%" src="https://ghchart.rshah.org/bd93f9/joao3313" alt="Gráfico de Contribuições de joao3313" />
   </a>
 </div>
  
